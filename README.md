@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/1.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/1.jpg?raw=true =50px)
 ![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/2.jpg?raw=true){ height=200px }
 ![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/3.jpg?raw=true){ height=200px }
 ![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/4.jpg?raw=true){ height=200px }
