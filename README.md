@@ -2,15 +2,15 @@
 
 ## Screenshots
 
-![](https://github.com//stvkoch/fast-play-ui/raw/master/screenshots/1.jpg){ height=200px }
-![](/stvkoch/fast-play-ui/raw/master/screenshots/2.jpg){ height=200px}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/3.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/4.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/5.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/6.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/11.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/12.jpg){ height="200px"}
-![](/stvkoch/fast-play-ui/raw/master/screenshots/13.jpg){ height="200px"}
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/1.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/2.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/3.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/4.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/5.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/6.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/11.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/12.jpg?raw=true){ height=200px }
+![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/13.jpg?raw=true){ height=200px }
 
 ## Components Availables
 
