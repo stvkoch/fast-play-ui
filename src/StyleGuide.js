@@ -12,17 +12,13 @@ import LottieView from "lottie-react-native";
 import { Viewport } from "@skele/components";
 
 import { themeContext } from "./share/context/theme";
-
 import getColors from "./share/styles/colors";
 import { useAppStyle } from "./share/styles/app";
-
 import {
   Button,
-
   Section,
   Container,
   Divisor,
-
   Title,
   Subtitle,
   Sentence,
@@ -30,7 +26,6 @@ import {
   TinyText,
   TinyStrongText,
   Link,
-
   Card,
   CardDescription,
   CardImage,
@@ -38,22 +33,15 @@ import {
   CardColumnImage,
   CardColumnTextContent,
   CardFooter,
-
   TinyRank,
-
   Input,
   SelectBox,
-
   TopBar,
   TopBarTitle,
   TopBarSearch,
   TopBarLogoAndCommand,
-
   Tag
 } from "./";
-
-
-
 
 const images = {
   img1: require("./images/img_1.jpg"),
