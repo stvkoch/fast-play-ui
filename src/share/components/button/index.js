@@ -7,7 +7,6 @@ import {
 } from "react-native";
 
 import { useAppStyle } from "./../../styles/app";
-// import appStyles from "./../../styles/app";
 
 function getStyleButton(
   appStyles,
