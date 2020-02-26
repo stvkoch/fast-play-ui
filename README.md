@@ -1,5 +1,7 @@
 # Fast Play UI
 
+React Native components.
+
 ## Screenshots
 
 ![](https://github.com/stvkoch/fast-play-ui/blob/master/screeenshots/1.jpg?raw=true)
